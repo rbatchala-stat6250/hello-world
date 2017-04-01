@@ -1,4 +1,4 @@
 # hello-world
 
-Exploring
+Exploring.
 Test repository created
